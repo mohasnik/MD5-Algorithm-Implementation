@@ -1,0 +1,6 @@
+[submodule "MD5-Cpp-Implementation"]
+	path = MD5-Cpp-Implementation
+	url = https://github.com/mohasnik/MD5-Cpp-Implementation.git
+[submodule "MD-5-verilog-Implementation"]
+	path = MD-5-verilog-Implementation
+	url = https://github.com/mohasnik/MD-5-verilog-Implementation.git
